@@ -11,6 +11,7 @@ So I write this simple php script to track price of particular ebooks that I am 
 It's now applicable to kindle store on amazon.cn, amazon.com. It cannot be used to track non ebook items on amazon.cn. I have no idea if it could be simply modified to adapt to other amazon.*.
 
 
+# 亚马逊降价提醒
 
 ### 介绍
 
